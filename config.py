@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH", "3cdd9d57996df6a3aa8f551913bc1fd9")
 
 BOT_TOKEN = getenv("BOT_TOKEN", "8150846526:AAETRwCp9_wq3W7Yo6clYmGbZMup6Y4VpT4")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://cobra:cobra@cobra.3ftmvvr.mongodb.net")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://tijilkumar241_db_user:rnCfyj5dbUZuZWYM@musicbot.ky0b1zy.mongodb.net/?appName=Musicbot")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 54000))
 
